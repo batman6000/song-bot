@@ -21,7 +21,6 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(OWNER, url=f"https://https://t.me/{Config.OWNER}"),
-                    InlineKeyboardButton(ABS, url=B2)
             ]
           ]
         ),
